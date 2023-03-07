@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013049098953",
+    "project_id": "rop-app-95e46",
+    "storage_bucket": "rop-app-95e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013049098953:android:7356e6ec36629d8bd84318",
+        "android_client_info": {
+          "package_name": "com.example.rop_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013049098953-et75uff7qdlb84gofl8qjpadafui31to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmRIPiItkqbPOWDojqodw3LC4n4JNZikA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013049098953-et75uff7qdlb84gofl8qjpadafui31to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
